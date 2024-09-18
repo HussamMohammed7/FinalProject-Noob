@@ -47,6 +47,7 @@ I have also i have done this extra :
 - SetParticipant1Ready
 - SetParticipant2Ready
 - NormalBracketGenerate
+- double elimination bracket
 - SetWinnerOfMatch
 - AdvanceWinner
 - WinnerByBYE
