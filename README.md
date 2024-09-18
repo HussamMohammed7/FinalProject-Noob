@@ -60,5 +60,8 @@ PostMan api
 ![Untitled (1)](https://github.com/user-attachments/assets/e3ee79e7-eabf-4cd8-b25c-fb4b31d8e012)
 https://documenter.getpostman.com/view/30968689/2sAXqqdNjT
 
+Figma 
+https://www.figma.com/design/uGFtV8Jcs5FD52LDU8ESxv/Untitled?node-id=0-1&t=Sr6zvZxtV70sgQbz-1
+
 
 
