@@ -28,31 +28,30 @@ https://lucid.app/lucidchart/56ca0f5c-4eb7-4e79-b0f6-14d190e348cf/edit?viewport_
 MY work on the Project 
 I have Make the tournament,bracket,round,match and participant CRUD and Models. 
 I have also i have done this extra : 
-getTournamentsByGame(EXTRA)
-getTournamentsByCity(EXTRA)
-getTournamentsByAttendanceTypeOnline(EXTRA)
-getTournamentsByAttendanceTypeOnsite(EXTRA)
-getTournamentsByStatusOngoing(EXTRA)
-getTournamentsByStatusActive(EXTRA)
-getTournamentsByStatusClosingSoon(EXTRA)
-
-getTournamentsByStatusFinished(EXTRA)
-getTournamentById(EXTRA)
-getTournamentDescriptionById(EXTRA)
-getTournamenMachesById(EXTRA)
-getTournamentBracketById(EXTRA)
-getTournamentStandingById(EXTRA)
-GetTournamentMatchesByStatusCompleted(EXTRA)
-GetTournamentMatchesByStatusInProgress(EXTRA)
-GetTournamentMatchesByStatusNotStarted(EXTRA)
-SetParticipant1Ready
-SetParticipant2Ready
-NormalBracketGenerate
-SetWinnerOfMatch
-AdvanceWinner
-WinnerByBYE
-HistoryBetweenTwoPlayer
-finilizeTouranment
+- getTournamentsByGame(EXTRA)
+- getTournamentsByCity(EXTRA)
+- getTournamentsByAttendanceTypeOnline(EXTRA)
+- getTournamentsByAttendanceTypeOnsite(EXTRA)
+- getTournamentsByStatusOngoing(EXTRA)
+- getTournamentsByStatusActive(EXTRA)
+- getTournamentsByStatusClosingSoon(EXTRA)
+- getTournamentsByStatusFinished(EXTRA)
+- getTournamentById(EXTRA)
+- getTournamentDescriptionById(EXTRA)
+- getTournamenMachesById(EXTRA)
+- getTournamentBracketById(EXTRA)
+- getTournamentStandingById(EXTRA)
+- GetTournamentMatchesByStatusCompleted(EXTRA)
+- GetTournamentMatchesByStatusInProgress(EXTRA)
+- GetTournamentMatchesByStatusNotStarted(EXTRA)
+- SetParticipant1Ready
+- SetParticipant2Ready
+- NormalBracketGenerate
+- SetWinnerOfMatch
+- AdvanceWinner
+- WinnerByBYE
+- HistoryBetweenTwoPlayer
+- finilizeTouranment
 
 
 
