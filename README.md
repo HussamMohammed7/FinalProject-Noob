@@ -26,6 +26,7 @@ getTournamentsByAttendanceTypeOnsite(EXTRA)
 getTournamentsByStatusOngoing(EXTRA)
 getTournamentsByStatusActive(EXTRA)
 getTournamentsByStatusClosingSoon(EXTRA)
+
 getTournamentsByStatusFinished(EXTRA)
 getTournamentById(EXTRA)
 getTournamentDescriptionById(EXTRA)
@@ -47,6 +48,7 @@ finilizeTouranment
 
 
 PostMan api
+![Untitled (1)](https://github.com/user-attachments/assets/e3ee79e7-eabf-4cd8-b25c-fb4b31d8e012)
 https://documenter.getpostman.com/view/30968689/2sAXqqdNjT
 
 
