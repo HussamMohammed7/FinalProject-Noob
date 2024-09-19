@@ -48,8 +48,9 @@ Here’s the enhanced structure for the README without altering any of the conte
 
 - [Figma Design](https://www.figma.com/design/uGFtV8Jcs5FD52LDU8ESxv/Untitled?node-id=0-1&t=V7eJ7Z3AifS0XrJO-1)
 - [Presentation](https://www.canva.com/design/DAGQ_9lAwuU/uPJlkOj0XV8sx3AN4qdTiA/edit?utm_content=DAGQ_9lAwuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- PostMan api![Untitled (1)](https://github.com/user-attachments/assets/e3ee79e7-eabf-4cd8-b25c-fb4b31d8e012)
-https://documenter.getpostman.com/view/30968689/2sAXqqdNjT
+- [PostMan api](https://documenter.getpostman.com/view/30968689/2sAXqqdNjT)
+- ![Untitled (1)](https://github.com/user-attachments/assets/e3ee79e7-eabf-4cd8-b25c-fb4b31d8e012)
+
 
 ---
 
