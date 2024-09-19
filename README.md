@@ -53,6 +53,7 @@ I have also i have done this extra :
 - WinnerByBYE
 - HistoryBetweenTwoPlayer
 - finilizeTouranment
+-Testing : TournamntController , TournamentService
 
 
 
